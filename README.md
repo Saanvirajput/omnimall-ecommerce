@@ -4,6 +4,10 @@
 
 OmniMall is a comprehensive e-commerce ecosystem designed for high-concurrency retail environments. Built on a modern **Spring Boot** and **MyBatis** foundation, it provides a seamless shopping experience across web and mobile platforms, integrated with advanced search, secure payments, and automated logistics.
 
+## 🌐 Live Demo
+- **Live API Portal**: [https://saanvirajput.github.io/omnimall-ecommerce/](https://saanvirajput.github.io/omnimall-ecommerce/)
+
+
 ## 🏛️ System Architecture
 
 OmniMall uses a modular monolith approach with specialized services for high-demand operations like search and notifications.
