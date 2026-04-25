@@ -1,12 +1,12 @@
 # 🛒 OmniMall: Enterprise Omnichannel E-Commerce System
 
-![OmniMall Hero Banner](/home/raven/.gemini/antigravity/brain/0e34cd78-0977-463f-ad0b-5adbc09a1bac/omnimall_hero_banner_1777060856340.png)
+![OmniMall Hero Banner](./assets/omnimall_hero_banner_1777060856340.png)
 
 OmniMall is a comprehensive e-commerce ecosystem designed for high-concurrency retail environments. Built on a modern **Spring Boot** and **MyBatis** foundation, it provides a seamless shopping experience across web and mobile platforms, integrated with advanced search, secure payments, and automated logistics.
 
 ## 🌐 Live Demo
-- **Live API Portal**: [https://saanvirajput.github.io/omnimall-ecommerce/](https://saanvirajput.github.io/omnimall-ecommerce/)
 
+- **Live API Portal**: [https://saanvirajput.github.io/omnimall-ecommerce/](https://saanvirajput.github.io/omnimall-ecommerce/)
 
 ## 🏛️ System Architecture
 
